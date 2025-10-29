@@ -37,6 +37,13 @@ body {
     width: 100%;
 }
 
+.swiper-button-next,
+.swiper-button-prev {
+    color: gray !important;
+    /* будь-який колір, наприклад синій */
+    /* розмір стрілок */
+}
+
 .categories-card .price {
     display: none;
 }
